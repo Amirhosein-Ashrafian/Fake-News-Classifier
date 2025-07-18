@@ -33,12 +33,14 @@ The dataset used for this project is `train.csv`, which contains news headlines 
 ### NLTK Resources Required
 
 Make sure you have the following NLTK resources downloaded:
+
 ```python
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
+```
 
 
 ### Results
@@ -62,8 +64,6 @@ This was one of my early projects when I started learning about machine learning
 
 There are still things that can be improved in this project — like testing with other models, doing hyperparameter tuning, or using more advanced NLP methods — but I think this version gives a good overview of how fake news classification works and how it can be implemented in Python.
 
-
-
 ---
 
-> Developed by Amirhosein Ashrafiyan | July 2025
+> Developed by Amirhosein Ashrafian | July 2025
