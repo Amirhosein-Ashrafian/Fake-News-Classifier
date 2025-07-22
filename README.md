@@ -66,4 +66,5 @@ There are still things that can be improved in this project — like testing wit
 
 ---
 
-> Developed by Amirhosein Ashrafian | July 2025
+> Developed by Amirhosein Ashrafian — Published in July 2025
+
